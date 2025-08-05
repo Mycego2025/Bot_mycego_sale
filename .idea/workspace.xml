@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43a89623-cdce-4352-8f10-8a505d6b090e" name="Changes" comment="Логи" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GSlav080&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GSlav080/MPLink.git&quot;,
+    &quot;accountId&quot;: &quot;908eb82b-a39c-4be0-86fe-946c967a2bdd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30ivGtBVGODUexg4PCOxhfral6S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.Временный.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Programming/MPLink/app/migrations",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\MPLink\app\migrations" />
+      <recent name="D:\Programming\MPLink\app\migrations\versions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\MPLink" />
+      <recent name="D:\Programming\MPLink\app" />
+      <recent name="D:\Programming\MPLink\app\migrations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MPBridge" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (MPLink)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a89623-cdce-4352-8f10-8a505d6b090e" name="Changes" comment="" />
+      <created>1754123116184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754123116184</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Чистый лист">
+      <option name="closed" value="true" />
+      <created>1754123230414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754123230414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Структура файлов">
+      <option name="closed" value="true" />
+      <created>1754149145810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754149145810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Структура файлов">
+      <option name="closed" value="true" />
+      <created>1754150074451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754150074451</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754152524829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754152524829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754152606975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754152606975</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754152879717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754152879717</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754153043487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754153043487</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754153119643</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754153119643</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754153269126</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754153269126</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157102885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157102885</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157274729</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157274729</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157505287</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157505287</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157747656</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157747656</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157818664</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157818664</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754157899289</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754157899289</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754158023623</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158023623</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754158302074</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158302074</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754158438689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158438689</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754158553653</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158553653</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754158601444</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1754158601444</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754159677909</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1754159677909</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754159927058</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1754159927058</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754160019794</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1754160019794</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754160289381</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1754160289381</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754160379469</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1754160379469</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754162084868</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1754162084868</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754162672001</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1754162672001</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754162759335</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1754162759335</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754163058104</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1754163058104</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754163074428</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1754163074428</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754246885740</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1754246885740</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ТГ бот">
+      <option name="closed" value="true" />
+      <created>1754294653662</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1754294653662</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Логи">
+      <option name="closed" value="true" />
+      <created>1754300082770</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1754300082770</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Логи">
+      <option name="closed" value="true" />
+      <created>1754372127998</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1754372127998</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Логи">
+      <option name="closed" value="true" />
+      <created>1754372864426</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1754372864426</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Чистый лист" />
+    <MESSAGE value="Структура файлов" />
+    <MESSAGE value="ТГ бот" />
+    <MESSAGE value="Логи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Логи" />
+  </component>
+</project>

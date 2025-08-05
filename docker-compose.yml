@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  bot:
+    build:
+      context: .
+    container_name: mpbridge_bot
+    restart: always
+    env_file:
+      - .env
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./app:/app
+      - ./logs:/app/logs
+    network_mode: "host"
+    working_dir: /app
+    command: >
+      sh -c "
+        python main.py
+      "
